@@ -1,0 +1,104 @@
+.logo {
+  height: 83px;
+  margin-left: 100px;
+  margin-top: 76px;
+  width: 62px;
+}
+h1 {
+  color: #152c5b;
+  font-style: normal;
+  line-height: 41px;
+  left: 963px;
+  top: 190px;
+  width: 270px;
+}
+h2 {
+  color: #03014c;
+}
+
+p {
+  color: #03014c;
+  line-height: 17px;
+}
+.id {
+  color: #03014c;
+}
+
+.left-box {
+  background: url("./images/AOP_1147\ \(1\).png");
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 50%;
+  display: inline-block;
+  padding-top: 420px;
+}
+body {
+  height: 100%;
+}
+html {
+  height: 100%;
+}
+
+.right-box {
+  display: inline-block;
+  height: 100vh;
+}
+
+.username {
+  display: block;
+  padding: 30px;
+  padding-top: 20px;
+  width: 450px;
+}
+.email-address {
+  display: block;
+  padding: 30px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  width: 400px;
+  margin-left: -16px;
+}
+.password {
+  display: block;
+  padding: 30px;
+  padding-top: 30px;
+  width: 400px;
+  margin-left: -5 px;
+}
+button {
+  background-color: #282644;
+  text-align: center;
+  color: white;
+  margin: 40px;
+  width: 310px;
+  height: 40px;
+  border-radius: 10px;
+}
+
+.box {
+  width: 310px;
+  margin: 0px;
+  display: inline-block;
+}
+
+.container {
+  text-align: center;
+  margin-left: -35px;
+}
+a {
+  color: rgb(245, 195, 70);
+  margin: 200px;
+  margin-right: 250px;
+}
+.vectorU {
+  height: 12px;
+  display: inline-block;
+}
+.vectorE {
+  height: 15px;
+  display: inline-block;
+}
+.vectorP {
+  height: 16px;
+  display: inline-block;
+}
